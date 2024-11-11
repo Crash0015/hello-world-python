@@ -10,11 +10,13 @@ docker --version
 
 ## Steps to Run the Project
 
-1. Pull the Docker image from Docker Hub:
+1. Open a terminal (such as Command Prompt on Windows or Terminal on macOS)
+
+2. Pull the Docker image from Docker Hub:
 
 docker pull krash97/primer-proyecto
 
-2. Run the container:
+3. Run the container:
 
 docker run krash97/primer-proyecto
 
